@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@pixi/app": "^7.4.2"
+  }
+}
